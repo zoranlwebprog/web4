@@ -30,4 +30,19 @@
             <dolazak>12:45</dolazak>
         </let> 
     </letovi>
+    
+    <letovi>
+        <prevoznik>FEAGA Airways</prevoznik>
+        <mesto_polaska> Barajevo</mesto_polaska>
+        <odrediste> NIS</odrediste>
+        <let>
+            <polazak>08:52</polazak>
+            <dolazak>10:45</dolazak>
+            
+        </let>   
+        <let>
+            <polazak> 11:15</polazak>
+            <dolazak> 10:40</dolazak>
+        </let> 
+    </letovi>
 </root>
