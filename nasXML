@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <letovi>
+        <prevoznik>abc Airways</prevoznik>
+        <mesto_polaska> Beograd</mesto_polaska>
+        <odrediste> Sarajevo</odrediste>
+        <let>
+            <polazak>09:15</polazak>
+            <dolazak>10:00</dolazak>
+            
+        </let>   
+        <let>
+            <polazak> 11:25</polazak>
+            <dolazak>12:00</dolazak>
+        </let> 
+    </letovi>
+    
+    <letovi>
+        <prevoznik>FEAGA Airways</prevoznik>
+        <mesto_polaska> Barajevo</mesto_polaska>
+        <odrediste> NIS</odrediste>
+        <let>
+            <polazak>08:52</polazak>
+            <dolazak>10:45</dolazak>
+            
+        </let>   
+        <let>
+            <polazak> 11:15</polazak>
+            <dolazak>12:45</dolazak>
+        </let> 
+    </letovi>
+</root>
